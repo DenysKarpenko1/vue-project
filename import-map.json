@@ -1,6 +1,6 @@
 {
   "urlFilters": {
-    "turn": true
+    "turn": false
   },
 
   "filtersSidebar": {
